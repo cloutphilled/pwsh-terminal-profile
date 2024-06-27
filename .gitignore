@@ -1,2 +1,3 @@
+# Modules/ folder has been added to .gitignore as the PowerShell modules shouldn't be added to the repository
 modules/
 echo "modules/" >> .gitignore
